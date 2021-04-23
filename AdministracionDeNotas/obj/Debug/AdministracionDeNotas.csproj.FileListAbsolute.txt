@@ -1,0 +1,10 @@
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\bin\Debug\AdministracionDeNotas.exe.config
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\bin\Debug\AdministracionDeNotas.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\bin\Debug\AdministracionDeNotas.pdb
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.csprojAssemblyReference.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.AdministradorDeNotas.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.Properties.Resources.resources
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.csproj.GenerateResource.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.exe
+C:\Users\omarc\OneDrive - Escuela Militar de Ingenieria\3° Semestre Ing. Mec\Programacion II\VisualStudio\AvanceP2\AdministracionDeNotas\AdministracionDeNotas\obj\Debug\AdministracionDeNotas.pdb
